@@ -1,5 +1,6 @@
 This repository contains details about the data availability and the computational methods developed for the *submitted* manuscript (add link).
 
+
 ## Data
 
 All the sequencing data have been deposited in the [ArrayExpress database](https://www.ebi.ac.uk/arrayexpress/) at EMBL-EBI under accession number E-MTAB-6367 (currently private):
@@ -8,11 +9,6 @@ All the sequencing data have been deposited in the [ArrayExpress database](https
  
  
 ## Code
- 
-Software requirements:
- 
- -
- 
 
 - **Pilot screen Pool8 A375**:
   - [Preliminary exploration](scripts/20160503_exploration.md)
@@ -45,4 +41,24 @@ Software requirements:
   - [MeSH and PolySearch2](scripts/20170727_literaturesearch.md#polysearch2-2)
 
 - **Submission to ArrayExpress**:
-  - [Code](scripts/20171014_data.md)
+  - [Script](scripts/20171014_data.md)
+
+
+## Sofware requirements
+
+- [FastQC v0.11.3](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+- [FASTX-Toolkit v0.0.14])(http://hannonlab.cshl.edu/fastx_toolkit/)
+- [Bowtie 2 v2.2.6](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
+- Unix [tools](http://opengroup.org/unix) (cat, cut, awk, sort and uniq)
+- [Python programming language v2.7.10](https://www.python.org/). Libraries used:
+  - os
+  - csv
+  - Biopython
+- [R programming language v3.2.1](https://cran.r-project.org/). Libraries used:
+  - [edgeR](http://bioconductor.org/packages/release/bioc/html/edgeR.html)
+  - data.table
+  - ggplot2
+  - VennDiagram
+  - reshape
+  - Biostrings
+- [PolySearch2](http://polysearch.cs.ualberta.ca/)
