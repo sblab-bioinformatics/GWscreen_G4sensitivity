@@ -47,7 +47,7 @@ All the sequencing data have been deposited in the [ArrayExpress database](https
 ## Sofware requirements
 
 - [FastQC v0.11.3](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
-- [FASTX-Toolkit v0.0.14])(http://hannonlab.cshl.edu/fastx_toolkit/)
+- [FASTX-Toolkit v0.0.14](http://hannonlab.cshl.edu/fastx_toolkit/)
 - [Bowtie 2 v2.2.6](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
 - Unix [tools](http://opengroup.org/unix) (cat, cut, awk, sort and uniq)
 - [Python programming language v2.7.10](https://www.python.org/). Libraries used:
