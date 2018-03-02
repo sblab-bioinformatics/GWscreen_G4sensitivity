@@ -1071,4 +1071,503 @@ cut 20171013_polysearch2_1501863075_quadruplex_medline_pmc_screen_summary.txt -f
 
 
 
+
+## 20170220 PolySearch2
+
+Request from Katie, what happens with the following papers? Pubmed ids:
+  - 29129743: TLN1, RPS29, hRNPU, GRSF1 - Pubmed abstract but not in PMC, association with these genes are only present in the main text, associations with other genes are present in the abstract
+  - 29434328: FUS - Both Pubmed abstract and PMC, association is present in the abstract
+  - 28760773: TIMELESS - Pubmed abstract but not in PMC, association is present in the abstract but involving G-Quadruplexes and TIMELESS/TIPIN
+
+
+- Search ID: **1519121447** (2547)
+  - Given: Text
+  - Query Keyword: Quadruplex
+  - Find ALL associated: Genes/Proteins
+  - Automated synonym list: quadruplex;G-Quadruplex;G-quadruplex;Quadruplexes;quadruplexes;G-Quadruplexes;G-quadruplexes;Tetrad;tetrad;Tetrads;tetrads;Quartet;quartet;Quartets;quartets;Tetraplex;tetraplex;Tetraplexes;tetraplexes
+  - Custom Negation Words, separate words with ";": (blank)
+  - Select one or more Corpus to search: PubMed, PubMed Central
+  - Document Limit: No Limit
+  - Show borderline associations: (ticked)
+
+- Search ID: **1519125198** (???) - same parameters as 1519121447, just to double-check
+  - Given: Text
+  - Query Keyword: Quadruplex
+  - Find ALL associated: Genes/Proteins
+  - Automated synonym list: quadruplex;G-Quadruplex;G-quadruplex;Quadruplexes;quadruplexes;G-Quadruplexes;G-quadruplexes;Tetrad;tetrad;Tetrads;tetrads;Quartet;quartet;Quartets;quartets;Tetraplex;tetraplex;Tetraplexes;tetraplexes
+  - Custom Negation Words, separate words with ";": (blank)
+  - Select one or more Corpus to search: PubMed, PubMed Central
+  - Document Limit: No Limit
+  - Show borderline associations: (ticked)
+
+- Search ID: **1519923987** (491)
+  - Given: Text
+  - Query Keyword: Quadruplex
+  - Find ALL associated: Genes/Proteins
+  - Automated synonym list: quadruplex;G-Quadruplex;G-quadruplex;Quadruplexes;quadruplexes;G-Quadruplexes;G-quadruplexes;Tetrad;tetrad;Tetrads;tetrads;Quartet;quartet;Quartets;quartets;Tetraplex;tetraplex;Tetraplexes;tetraplexes
+  - Custom Negation Words, separate words with ";": (blank)
+  - Select one or more Corpus to search: **PubMed**
+  - Document Limit: No Limit
+  - Show borderline associations: (ticked)
+
+- Search ID: **1519129866** (411)
+  - Given: Text
+  - Query Keyword: **G-quadruplex**
+  - Find ALL associated: Genes/Proteins
+  - Automated synonym list: **quadruplex;Quadruplex;G-Quadruplex;Quadruplexes;quadruplexes;G-Quadruplexes;G-quadruplexes;Tetrad;tetrad;Tetrads;tetrads;Quartet;quartet;Quartets;quartets;Tetraplex;tetraplex;Tetraplexes;tetraplexes**
+  - Custom Negation Words, separate words with ";": (blank)
+  - Select one or more Corpus to search: **PubMed**
+  - Document Limit: No Limit
+  - Show borderline associations: (ticked)
+
+- Search ID: **1519135535** (233)
+  - Given: Text
+  - Query Keyword: **G-quadruplexes**
+  - Find ALL associated: Genes/Proteins
+  - Automated synonym list: **G Quadruplexes, DNA; Guanine Quartets; Guanine-Tetrads; Guanine Quadruplexes; Guanine-Quartets; RNA G-Quadruplexes; DNA, Quadruplex; G-Quadruplexes RNA; G Quadruplexes, RNA; DNA G Quadruplexes; Guanine-Quadruplexes; Guanine Tetrads; DNA, Tetraplex; G-Quadruplexes, RNA; RNA, G-Quadruplexes; Tetraplex DNA; G-Quadruplexes, DNA; DNA G-Quadruplexes; Quadruplex DNA; Guanine-Tetrad; RNAs, G-Quadruplexes; RNA, G Quadruplexes; Guanine-Quartet; G-Quadruplexes; G-Quadruplexes RNAs; G Quadruplexes**
+  - Custom Negation Words, separate words with ";": (blank)
+  - Select one or more Corpus to search: **PubMed**
+  - Document Limit: No Limit
+  - Show borderline associations: (ticked)
+
+The Automated synonym list appears automatically when introducing G-quadruplexes as query word. Now 28760773 is picked up too but in association with MIDAS, Cyclin E and TERC - not TIMELESS. I think it is because it appears as TIMELESS/TIPIN.
+
+- Search ID: **1519922917** (???)
+  - Given: Text
+  - Query Keyword: **G-quadruplexes**
+  - Find ALL associated: Genes/Proteins
+  - Automated synonym list: **G Quadruplexes, DNA; Guanine Quartets; Guanine-Tetrads; Guanine Quadruplexes; Guanine-Quartets; RNA G-Quadruplexes; DNA, Quadruplex; G-Quadruplexes RNA; G Quadruplexes, RNA; DNA G Quadruplexes; Guanine-Quadruplexes; Guanine Tetrads; DNA, Tetraplex; G-Quadruplexes, RNA; RNA, G-Quadruplexes; Tetraplex DNA; G-Quadruplexes, DNA; DNA G-Quadruplexes; Quadruplex DNA; Guanine-Tetrad; RNAs, G-Quadruplexes; RNA, G Quadruplexes; Guanine-Quartet; G-Quadruplexes; G-Quadruplexes RNAs; G Quadruplexes**
+  - Custom Negation Words, separate words with ";": (blank)
+  - Select one or more Corpus to search: **PubMed** **PubMed Central**
+  - Document Limit: No Limit
+  - Show borderline associations: (ticked)
+
+- Search ID: **1519128827** (411)
+  - Given: Text
+  - Query Keyword: **G-quadruplex**
+  - Find ALL associated: Genes/Proteins
+  - Automated synonym list: **(blank)**
+  - Custom Negation Words, separate words with ";": (blank)
+  - Select one or more Corpus to search: **PubMed**
+  - Document Limit: No Limit
+  - Show borderline associations: (ticked)
+
+
+Just to follow the consistency with previous searches, the idea would be to:
+
+- 1st: 1519121447 (pubmed + pubmed central) (broad search) - the number of hits has increased dramatically compared to 1501863075 above
+- 2nd: 1519922917 (pubmed + pubmed central) (stringent search using the MeSH) - by using the MeSH term, we seem to be picking the 28760773 reference requested by Katie, not linked to TIMELESS though but MIDAS, Cyclin E and TERC
+- 3rd: 1519135535 (pubmed only) (very stringent search using the MeSH) - by using the MeSH term, we seem to be picking the 28760773 reference requested by Katie, not linked to TIMELESS though but MIDAS, Cyclin E and TERC
+
+
+
+
+### Copy tables
+
+In `clust1-headnode`,
+
+```bash
+cd /scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data
+mkdir -p 20180301/polysearch2
+cd 20180301
+mkdir tables
+cd tables
+rsync -arvuP martin03@143.65.169.61:/lustre/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20170727/tables/List_for_literature_search.csv .
+rsync -arvuP martin03@143.65.169.61:/lustre/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20170727/tables/20170130_PDSvst0_genes.txt .
+rsync -arvuP martin03@143.65.169.61:/lustre/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20170727/tables/20170130_PhenDC3vst0_genes.txt .
+```
+
+In `C02Q70MUFVH8`,
+
+```bash
+cd /Users/martin03/Desktop
+rsync -arvuP POLYSEARCH* martin03@10.20.236.34:/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/polysearch2/
+```
+
+In `clust1-headnode`,
+
+```bash
+cd /scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/polysearch2
+ls -lh
+#-rw-r--r-- 1 martin03 sblab  41M Feb 20 03:25 POLYSEARCH-1519121447.json
+#-rw-r--r-- 1 martin03 sblab  25K Aug  7  2014 POLYSEARCH2_THESAURUS_gene_family.txt
+#-rw-r--r-- 1 martin03 sblab 6.6M Aug  7  2014 POLYSEARCH2_THESAURUS_genes.txt
+```
+
+The files `POLYSEARCH2_THESAURUS_genes.txt` and `POLYSEARCH2_THESAURUS_gene_family.txt` links ids of genes (PS...) and gene families (PSF...) given in the result `.json` files.
+
+
+
+### 1st: 1519121447
+
+- doc_count:
+  - medline: 4387
+  - pmc: 1244
+- found_hits: 2547
+
+```python
+# Loading screen lists of genes
+ifile1 = open("/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/tables/List_for_literature_search.csv", "r")
+ilines1 = ifile1.read().split("\r")
+ifile1.close()
+
+list_withoutFC = []
+list_withFC = []
+
+for line in ilines1[1:]:
+  fields = line.split(",")
+  if fields[0] != "":
+    list_withoutFC.append(fields[0])
+  if fields[2] != "":
+    list_withFC.append(fields[2])
+
+
+len(list_withoutFC) # 843 without FC threshold genes
+len(set(list_withoutFC)) # 843 unique without FC threshold genes
+len(list_withFC) # 763 with FC threshold genes
+len(set(list_withFC)) # 763 unique with FC threshold genes
+
+
+# Loading thesauri into dictionaries
+## POLYSEARCH2_THESAURUS_genes.txt
+t_genes_ifile = open("/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/polysearch2/POLYSEARCH2_THESAURUS_genes.txt", "r")
+t_genes_ilines = t_genes_ifile.readlines()
+t_genes_ifile.close()
+
+t_genes = {}
+
+for line in t_genes_ilines:
+  fields = line.split("\t")
+  entity = fields[0]
+  t_genes[entity] = []
+  for name in fields[1:]:
+    name = name.replace("\n", "")
+    t_genes[entity].append(name)
+
+
+len(t_genes) # 27994
+t_genes["PS12860"] # ['DNA topoisomerase 1', 'DNA topoisomerase I', 'TOP-1', 'TOP1', 'TOP1 protein', 'topoisomerase (DNA) I', 'DNA topoisomerase Is', 'TOP1 proteins', 'topoisomerase (DNA) Is', 'Type I DNA topoisomerase', 'EC 5.99.1.2']
+
+## POLYSEARCH2_THESAURUS_gene_family.txt
+t_genefamily_ifile = open("/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/polysearch2/POLYSEARCH2_THESAURUS_gene_family.txt", "r")
+t_genefamily_ilines = t_genefamily_ifile.readlines()
+t_genefamily_ifile.close()
+
+t_genefamily = {}
+
+for line in t_genefamily_ilines:
+  fields = line.split("\t")
+  entity = fields[0]
+  t_genefamily[entity] = []
+  for name in fields[1:]:
+    name = name.replace("\n", "")
+    t_genefamily[entity].append(name)
+
+
+len(t_genefamily) # 404
+t_genefamily["PSF00377"] # ['Telomerase', 'Telomerases']
+
+
+# Loading PDS and PhenDC3 tables
+ifile_pds = open("/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/tables/20170130_PDSvst0_genes.txt", "r")
+ilines_pds = ifile_pds.readlines()
+ifile_pds.close()
+
+pds_dict = {}
+
+for line in ilines_pds[1:]:
+  fields = line.split()
+  gene = fields[0]
+  n_detected_shRNAs = fields[2]
+  n_significant_sensitiser_shRNAs = fields[11]
+  logFC_significant_sensitiser_shRNAs_median = fields[14]
+  pds_dict[gene] = [n_detected_shRNAs, n_significant_sensitiser_shRNAs, logFC_significant_sensitiser_shRNAs_median]
+
+
+pds_dict["TOP1"] # ['8', '3', '-3.12857659580522']
+pds_dict["MYC"] # ['8', '6', '-2.99796523521497']
+pds_dict["ATRX"] # ['16', '1', '-1.55023350217559']
+pds_dict["RTEL1"] # ['4', '1', '-3.02109555091145']   RTEL1|TNFRSF6B
+pds_dict["TNFRSF6B"] # ['2', '0', 'NA']   RTEL1|TNFRSF6B
+pds_dict["BRIP1"] # ['7', '0', 'NA']   BRIP1;BACH1
+pds_dict["BACH1"] # ['5', '0', 'NA']   BRIP1;BACH1
+
+
+ifile_phendc3 = open("/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/tables/20170130_PhenDC3vst0_genes.txt", "r")
+ilines_phendc3 = ifile_phendc3.readlines()
+ifile_phendc3.close()
+
+phendc3_dict = {}
+
+for line in ilines_phendc3[1:]:
+  fields = line.split()
+  gene = fields[0]
+  n_detected_shRNAs = fields[2]
+  n_significant_sensitiser_shRNAs = fields[11]
+  logFC_significant_sensitiser_shRNAs_median = fields[14]
+  phendc3_dict[gene] = [n_detected_shRNAs, n_significant_sensitiser_shRNAs, logFC_significant_sensitiser_shRNAs_median]
+
+
+phendc3_dict["TOP1"] # ['8', '4', '-3.92126848474496']
+phendc3_dict["MYC"] # ['8', '0', 'NA']
+phendc3_dict["ATRX"] # ['16', '5', '-1.39558644062454']
+phendc3_dict["RTEL1"] # ['4', '2', '-4.77796076453467']   RTEL1|TNFRSF6B
+phendc3_dict["TNFRSF6B"] # ['2', '0', 'NA']   RTEL1|TNFRSF6B
+phendc3_dict["BRIP1"] # ['7', '0', 'NA']   BRIP1;BACH1
+phendc3_dict["BACH1"] # ['5', '0', 'NA']   BRIP1;BACH1
+
+
+# Loading POLYSEARCH-1519121447.json and writing output
+import json
+from operator import itemgetter
+
+ifile2 = json.load(open("/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/polysearch2/POLYSEARCH-1519121447.json"))
+
+all_genes = [line.split()[0] for line in ilines_pds[1:]]
+
+polysearch2 = []
+
+for entity in ifile2["hits"]["gene"]:
+  i = entity["eid"]
+  n = str(entity["ename"])
+  rscore = str(entity["rscore"])
+  synonyms = [str(syn) for syn in entity["esynonyms"]]
+  evidence = entity['evidence']
+  if not i.startswith("PSF"):
+    synonyms2 = t_genes[i]
+    inter = set(synonyms + synonyms2).intersection(set(all_genes))
+    if len(inter) > 0:
+      if len(set(synonyms + synonyms2).intersection(set(list_withoutFC))) > 0:
+        withoutFC = "yes"
+      else:
+        withoutFC = "no"
+      if len(set(synonyms + synonyms2).intersection(set(list_withFC))) > 0:
+        withFC = "yes"
+      else:
+        withFC = "no"
+      pubs = []
+      for e in evidence:
+        for entry in e['entries']:
+          pubs = pubs + [(str(entry['doc_id']), str(entry['doc_type']), int(entry['rscore']))]
+      pubs.sort(key=itemgetter(2), reverse=True)
+      pubs2 = [",".join(list((p[0], p[1], str(p[2])))) for p in pubs]
+      polysearch2.append(["|".join(list(inter)), n, withoutFC, withFC, rscore, "|".join(pubs2), "|".join(list(set(synonyms + synonyms2))).replace("\r", " ")])
+
+
+len(polysearch2) # 2365
+
+ofile = open("/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/polysearch2/20180301_polysearch2_1519121447_quadruplex_medline_pmc_screen_summary.txt", "w")
+
+ofile.write("Gene name screen\tGene name polysearch2\twithout FC threshold?\twith FC threshold?\tRelevancy Score\tPubmed ids\tSynonyms polysearch2\n")
+
+for gene in polysearch2:
+  ofile.write("\t".join(gene) + "\n")
+
+ofile.close()
+
+```
+
+Further analysis:
+
+```bash
+cd /scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/polysearch2
+wc -l 20180301_polysearch2_1519121447_quadruplex_medline_pmc_screen_summary.txt # 2366
+cut 20180301_polysearch2_1519121447_quadruplex_medline_pmc_screen_summary.txt -f3-4 | sort | uniq -c
+#   2147 no	no
+#     15 yes	no
+#    203 yes	yes
+```
+
+
+
+### 2nd: 1519922917
+
+Waiting for the polysearch process to finish ...
+
+
+
+### 3rd: 1519135535
+
+- doc_count:
+  - medline: 1627
+- found_hits: 233
+
+```python
+# Loading screen lists of genes
+ifile1 = open("/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/tables/List_for_literature_search.csv", "r")
+ilines1 = ifile1.read().split("\r")
+ifile1.close()
+
+list_withoutFC = []
+list_withFC = []
+
+for line in ilines1[1:]:
+  fields = line.split(",")
+  if fields[0] != "":
+    list_withoutFC.append(fields[0])
+  if fields[2] != "":
+    list_withFC.append(fields[2])
+
+
+len(list_withoutFC) # 843 without FC threshold genes
+len(set(list_withoutFC)) # 843 unique without FC threshold genes
+len(list_withFC) # 763 with FC threshold genes
+len(set(list_withFC)) # 763 unique with FC threshold genes
+
+
+# Loading thesauri into dictionaries
+## POLYSEARCH2_THESAURUS_genes.txt
+t_genes_ifile = open("/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/polysearch2/POLYSEARCH2_THESAURUS_genes.txt", "r")
+t_genes_ilines = t_genes_ifile.readlines()
+t_genes_ifile.close()
+
+t_genes = {}
+
+for line in t_genes_ilines:
+  fields = line.split("\t")
+  entity = fields[0]
+  t_genes[entity] = []
+  for name in fields[1:]:
+    name = name.replace("\n", "")
+    t_genes[entity].append(name)
+
+
+len(t_genes) # 27994
+t_genes["PS12860"] # ['DNA topoisomerase 1', 'DNA topoisomerase I', 'TOP-1', 'TOP1', 'TOP1 protein', 'topoisomerase (DNA) I', 'DNA topoisomerase Is', 'TOP1 proteins', 'topoisomerase (DNA) Is', 'Type I DNA topoisomerase', 'EC 5.99.1.2']
+
+## POLYSEARCH2_THESAURUS_gene_family.txt
+t_genefamily_ifile = open("/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/polysearch2/POLYSEARCH2_THESAURUS_gene_family.txt", "r")
+t_genefamily_ilines = t_genefamily_ifile.readlines()
+t_genefamily_ifile.close()
+
+t_genefamily = {}
+
+for line in t_genefamily_ilines:
+  fields = line.split("\t")
+  entity = fields[0]
+  t_genefamily[entity] = []
+  for name in fields[1:]:
+    name = name.replace("\n", "")
+    t_genefamily[entity].append(name)
+
+
+len(t_genefamily) # 404
+t_genefamily["PSF00377"] # ['Telomerase', 'Telomerases']
+
+
+# Loading PDS and PhenDC3 tables
+ifile_pds = open("/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/tables/20170130_PDSvst0_genes.txt", "r")
+ilines_pds = ifile_pds.readlines()
+ifile_pds.close()
+
+pds_dict = {}
+
+for line in ilines_pds[1:]:
+  fields = line.split()
+  gene = fields[0]
+  n_detected_shRNAs = fields[2]
+  n_significant_sensitiser_shRNAs = fields[11]
+  logFC_significant_sensitiser_shRNAs_median = fields[14]
+  pds_dict[gene] = [n_detected_shRNAs, n_significant_sensitiser_shRNAs, logFC_significant_sensitiser_shRNAs_median]
+
+
+pds_dict["TOP1"] # ['8', '3', '-3.12857659580522']
+pds_dict["MYC"] # ['8', '6', '-2.99796523521497']
+pds_dict["ATRX"] # ['16', '1', '-1.55023350217559']
+pds_dict["RTEL1"] # ['4', '1', '-3.02109555091145']   RTEL1|TNFRSF6B
+pds_dict["TNFRSF6B"] # ['2', '0', 'NA']   RTEL1|TNFRSF6B
+pds_dict["BRIP1"] # ['7', '0', 'NA']   BRIP1;BACH1
+pds_dict["BACH1"] # ['5', '0', 'NA']   BRIP1;BACH1
+
+
+ifile_phendc3 = open("/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/tables/20170130_PhenDC3vst0_genes.txt", "r")
+ilines_phendc3 = ifile_phendc3.readlines()
+ifile_phendc3.close()
+
+phendc3_dict = {}
+
+for line in ilines_phendc3[1:]:
+  fields = line.split()
+  gene = fields[0]
+  n_detected_shRNAs = fields[2]
+  n_significant_sensitiser_shRNAs = fields[11]
+  logFC_significant_sensitiser_shRNAs_median = fields[14]
+  phendc3_dict[gene] = [n_detected_shRNAs, n_significant_sensitiser_shRNAs, logFC_significant_sensitiser_shRNAs_median]
+
+
+phendc3_dict["TOP1"] # ['8', '4', '-3.92126848474496']
+phendc3_dict["MYC"] # ['8', '0', 'NA']
+phendc3_dict["ATRX"] # ['16', '5', '-1.39558644062454']
+phendc3_dict["RTEL1"] # ['4', '2', '-4.77796076453467']   RTEL1|TNFRSF6B
+phendc3_dict["TNFRSF6B"] # ['2', '0', 'NA']   RTEL1|TNFRSF6B
+phendc3_dict["BRIP1"] # ['7', '0', 'NA']   BRIP1;BACH1
+phendc3_dict["BACH1"] # ['5', '0', 'NA']   BRIP1;BACH1
+
+
+# Loading POLYSEARCH-1519135535.json and writing output
+import json
+from operator import itemgetter
+
+ifile2 = json.load(open("/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/polysearch2/POLYSEARCH-1519135535.json"))
+
+all_genes = [line.split()[0] for line in ilines_pds[1:]]
+
+polysearch2 = []
+
+for entity in ifile2["hits"]["gene"]:
+  i = entity["eid"]
+  n = str(entity["ename"])
+  rscore = str(entity["rscore"])
+  synonyms = [str(syn) for syn in entity["esynonyms"]]
+  evidence = entity['evidence']
+  if not i.startswith("PSF"):
+    synonyms2 = t_genes[i]
+    inter = set(synonyms + synonyms2).intersection(set(all_genes))
+    if len(inter) > 0:
+      if len(set(synonyms + synonyms2).intersection(set(list_withoutFC))) > 0:
+        withoutFC = "yes"
+      else:
+        withoutFC = "no"
+      if len(set(synonyms + synonyms2).intersection(set(list_withFC))) > 0:
+        withFC = "yes"
+      else:
+        withFC = "no"
+      pubs = []
+      for e in evidence:
+        for entry in e['entries']:
+          pubs = pubs + [(str(entry['doc_id']), str(entry['doc_type']), int(entry['rscore']))]
+      pubs.sort(key=itemgetter(2), reverse=True)
+      pubs2 = [",".join(list((p[0], p[1], str(p[2])))) for p in pubs]
+      polysearch2.append(["|".join(list(inter)), n, withoutFC, withFC, rscore, "|".join(pubs2), "|".join(list(set(synonyms + synonyms2))).replace("\r", " ")])
+
+
+len(polysearch2) # 211
+
+ofile = open("/scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/polysearch2/20180301_polysearch2_1519135535_quadruplex_medline_pmc_screen_summary.txt", "w")
+
+ofile.write("Gene name screen\tGene name polysearch2\twithout FC threshold?\twith FC threshold?\tRelevancy Score\tPubmed ids\tSynonyms polysearch2\n")
+
+for gene in polysearch2:
+  ofile.write("\t".join(gene) + "\n")
+
+ofile.close()
+```
+
+Further analysis:
+
+```bash
+cd /scratchb/sblab/martin03/repository/20160418_shRNAscreen_katie_darcie/data/20180301/polysearch2
+wc -l 20180301_polysearch2_1519135535_quadruplex_medline_pmc_screen_summary.txt # 212
+cut 20180301_polysearch2_1519135535_quadruplex_medline_pmc_screen_summary.txt -f3-4 | sort | uniq -c
+#    184 no	no
+#      4 yes	no
+#     23 yes	yes
+```
+
+
+
+
+
 ## TODO
+
+- Develop Europe PMC API engine
