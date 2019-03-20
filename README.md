@@ -3,11 +3,13 @@ This repository contains details about the data availability and the computation
 
 ## Data
 
-All the sequencing data have been deposited in the [ArrayExpress database](https://www.ebi.ac.uk/arrayexpress/) at EMBL-EBI under accession number E-MTAB-6367 (currently reviewer access only):
+All the sequencing data have been deposited in the [ArrayExpress database](https://www.ebi.ac.uk/arrayexpress/) at EMBL-EBI under accession number [E-MTAB-6367](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-6367). The manuscript is currently under review, here are the reviewer access login details:
 
- https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-6367
- 
- 
+- Login User name: Reviewer_E-MTAB-6367
+- Password: PmpkqLnf
+
+
+
 ## Code
 
 - **Pilot screen Pool8 A375**:
