@@ -1,13 +1,9 @@
-This repository contains details about the data availability and the computational methods developed for the *submitted* manuscript (add link).
+This repository contains details about the data availability and the computational methods developed for the *accepted* manuscript (add link).
 
 
 ## Data
 
-All the sequencing data have been deposited in the [ArrayExpress database](https://www.ebi.ac.uk/arrayexpress/) at EMBL-EBI under accession number [E-MTAB-6367](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-6367). The manuscript is currently under review, here are the reviewer access login details:
-
-- Login User name: Reviewer_E-MTAB-6367
-- Password: PmpkqLnf
-
+All the sequencing data have been deposited in the [ArrayExpress database](https://www.ebi.ac.uk/arrayexpress/) at EMBL-EBI under accession number [E-MTAB-6367](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-6367).
 
 
 ## Code
