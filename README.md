@@ -1,4 +1,4 @@
-This repository contains details about the data availability and the computational methods developed for the *accepted* manuscript (add link).
+This repository contains details about the data availability and the computational methods developed for [our manuscript](https://elifesciences.org/articles/46793).
 
 
 ## Data
